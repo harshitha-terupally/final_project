@@ -14,9 +14,10 @@ Apart from offering simple calorie tracking, the app has features that assist us
 OUTPUTS:
 Screenshot-1
 
+<img width="608" alt="Screenshot 2024-04-20 at 7 48 50 PM" src="https://github.com/harshitha-terupally/final_project/assets/167648642/4e95eb8c-b4b4-4d4c-8979-9071b54d39cb">
 
 
-<img width="526" alt="Screenshot 2024-04-20 at 5 30 11 PM" src="https://github.com/harshitha-terupally/final_project/assets/167648642/6057ceaa-61fe-4754-9650-b450647a6ff7">
+
 
 
 Description of Screenshot-1:
