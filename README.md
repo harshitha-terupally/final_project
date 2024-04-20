@@ -25,8 +25,9 @@ The functionality of the app includes to enter the calories consumed by the user
 
 Screenshot-2
 
+<img width="526" alt="Screenshot 2024-04-20 at 7 50 44 PM" src="https://github.com/harshitha-terupally/final_project/assets/167648642/b0f592a7-c1f6-44e2-adf1-e7af359e8b20">
 
-<img width="575" alt="Screenshot 2024-04-20 at 5 04 51 PM" src="https://github.com/harshitha-terupally/final_project/assets/167648642/210289ce-d0ba-438d-99e0-6c160dc1af19">
+
 
 Description of Screenshot-2:
 Here in the screenshot-2, after clicking on the button “ submit today’s values” from the previous window, a new window  opens where the user can check the total calories of the day and a button “Add New Day” can be seen, which directs to the main window. The calories consumed on all days can be tracked in this window.
