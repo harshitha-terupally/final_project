@@ -32,3 +32,12 @@ Screenshot-2
 Description of Screenshot-2:
 Here in the screenshot-2, after clicking on the button “ submit today’s values” from the previous window, a new window  opens where the user can check the total calories of the day and a button “Add New Day” can be seen, which directs to the main window. The calories consumed on all days can be tracked in this window.
 
+
+
+Video Presentation: 
+https://github.com/harshitha-terupally/final_project/assets/167648642/babf88ff-e59c-4c13-b926-76b8095984cf
+
+
+
+
+
